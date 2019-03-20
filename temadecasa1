@@ -1,0 +1,4 @@
+/* Tema: Creati un tablou de caractere si aplicati template specialization
+pentru a particulariza functia template suma astfel încât functia sa returneze
+caracterele concatenate. De exemplu, daca tabloul este 's', 'd', 'r', functia tem-
+plate suma va avea ca rezultat sirul de caractere 'sdr'. */
